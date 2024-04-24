@@ -46,9 +46,9 @@ This report aims to analyze classic movies released until 2000 using Movie Lens 
 
 # Solution Approach.
 # 1.	Data Cleaning and Transformation:
-•	Cleanse movie and user data for inconsistencies and missing values.
-•	Transform the data into a format suitable for Power BI analysis.
-•	Create calculated fields for user engagement metrics.
+* •	Cleanse movie and user data for inconsistencies and missing values.
+* •	Transform the data into a format suitable for Power BI analysis.
+* •	Create calculated fields for user engagement metrics.
 
 # 2.	Visualizations and Analysis:
  
