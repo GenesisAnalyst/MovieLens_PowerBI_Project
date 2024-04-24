@@ -27,15 +27,13 @@ This report aims to analyze classic movies released until 2000 using Movie Lens 
 * movie_id: id assigned to every movie released.
 * rating: the rating given by the user.
 * timestamp: Time recorded when the user gave a rating.
-- 
-- 
+
 * movie.csv: The file contains information related to the movies and their genre.
 * genre: genre of the movie - a movie can have multiple genres separated by a pipe.
 * movie_id: id assigned to every movie released.
 * movie_name: Title of the movie.
 * year: Year of release of the movie.
-- 
-- 
+
 * user.csv: It contains information about the users who have rated the movies.
 * user_id: id assigned to every user. 
 * age: Age of the user.
